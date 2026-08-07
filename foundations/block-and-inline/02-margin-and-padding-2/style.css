@@ -21,3 +21,6 @@ button {
   background: white;
 }
 
+.button-container {
+  margin: 16px auto;
+}
