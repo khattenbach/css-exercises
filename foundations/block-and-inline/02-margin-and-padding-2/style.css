@@ -14,13 +14,27 @@ body {
 .content,
 .button-container {
   background: dodgerblue;
+}
+
+.title {
+  font-size: 16px;
   padding: 8px;
+  margin-bottom: 8px;
+}
+
+.content {
+  padding: 16px 8px;
+  margin-bottom: 8px;
 }
 
 button {
   background: white;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
 
 .button-container {
-  margin: 16px auto;
+  text-align: center;
+  padding: 8px;
 }
